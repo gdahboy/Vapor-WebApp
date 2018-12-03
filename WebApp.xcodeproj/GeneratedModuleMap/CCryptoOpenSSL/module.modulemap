@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/macbook/Documents/WebApp/.build/checkouts/crypto.git-5371987503305077351/Sources/CCryptoOpenSSL/include"
+    export *
+}

@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/macbook/Documents/WebApp/.build/checkouts/swift-nio-ssl.git--1860778214041590121/Sources/CNIOOpenSSL/include"
+    export *
+}

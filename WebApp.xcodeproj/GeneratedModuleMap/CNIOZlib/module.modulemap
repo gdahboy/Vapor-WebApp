@@ -1,0 +1,4 @@
+module CNIOZlib {
+    umbrella "/Users/macbook/Documents/WebApp/.build/checkouts/swift-nio.git-7581712507060291907/Sources/CNIOZlib/include"
+    export *
+}
